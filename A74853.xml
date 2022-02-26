@@ -1,0 +1,171 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Irish treaty, or the last and best intelligence from Ireland; being a perfect relation of the most remarkable occurrents in that kingdome, since the Lord Taffes going over thither with a commission from his Majesty to treat with the rebels there. In which is contained an exact relation of the said treaty at Trimme, between the Marquesse of Ormond, and Sir Francis Willoughby, for his Majesty, and the Lord Neuterfield and others in the behalfe of the rebels. As also a continuation of the victorious successe of the Protestant forces in severall parts of Ireland, since the breaking off and conclusion of the said treaty. In a letter to the Lady Rogers.</title>
+            <author>Brimpahir, George.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74853</idno>
+            <idno type="STC">Thomason E60_7</idno>
+            <idno type="STC">ESTC R191</idno>
+            <idno type="EEBO-CITATION">99860572</idno>
+            <idno type="PROQUEST">99860572</idno>
+            <idno type="VID">155321</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74853)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155321)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 11:E60[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Irish treaty, or the last and best intelligence from Ireland; being a perfect relation of the most remarkable occurrents in that kingdome, since the Lord Taffes going over thither with a commission from his Majesty to treat with the rebels there. In which is contained an exact relation of the said treaty at Trimme, between the Marquesse of Ormond, and Sir Francis Willoughby, for his Majesty, and the Lord Neuterfield and others in the behalfe of the rebels. As also a continuation of the victorious successe of the Protestant forces in severall parts of Ireland, since the breaking off and conclusion of the said treaty. In a letter to the Lady Rogers.</title>
+                  <author>Brimpahir, George.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. Harper for H Shepheard, and are to be sold by G. Tomlinson, at his shop on Ludgate-hill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed and dated at end : George Brimpahir [pseud.]: Dublin : July 2, 1643.</note>
+                  <note>Annotation on Thomason copy: "13 July".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ormonde, James Butler, --  Duke of, 1610-1688 --  Early works to 1800.</term>
+               <term>Carlingford, Theobald Taaffe, --  Earl of, d. 1677 --  Early works to 1800.</term>
+               <term>Netterville, John Netterville, --  Viscount, d. 1659 --  Early works to 1800.</term>
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155321:1" rendition="simple:additions"/>
+            <p>THE IRISH TREATY, OR The laſt and beſt Intelligence from <hi>IRELAND;</hi> Being a perfect Relation of the moſt remarkable occurrents in that Kingdome, ſince the Lord <hi>Taffes</hi> going over thither with a Commiſſion from his Majeſty to Treat with the Rebels there.</p>
+            <p>In which is contained an exact Relation of the ſaid Treaty at Trimme, between the Mar<g ref="char:EOLhyphen"/>queſſe of Ormond, and Sir Francis Willoughby, for his Majeſty, and the Lord Neuterfield and others in the behalfe of the Rebels.</p>
+            <p>As alſo a continuation of the victorious ſucceſſe of the Pro<g ref="char:EOLhyphen"/>teſtant forces in ſeverall parts of Ireland, ſince the breaking off and concluſion of the ſaid Treaty. In a letter to the Lady <hi>Rogers.</hi>
+            </p>
+            <p>London, Printed by <hi>T. Harper</hi> for <hi>H Shepheard,</hi> and are to be ſold by <hi>G. Tomlinſon,</hi> at his ſhop on Ludgate-hill. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:155321:2"/>
+            <pb n="1" facs="tcp:155321:2"/>
+            <head>The Iriſh Treaty. Or, The laſt and beſt News from <hi>Ireland.</hi>
+            </head>
+            <opener>
+               <salute>Madam,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">M</seg>Y humble duty preſented unto your La<g ref="char:EOLhyphen"/>diſhip: I doe admire that I have recei<g ref="char:EOLhyphen"/>ved no Letters from you ſince the 14. of March laſt paſt, having ſince that time written above twenty letters to your Ladiſhip; and ſtill being ignorant whether they went ſafe or no, the want of an anſwer poſſeſt me of a jealouſie, that it did no goe well with your Ladiſhip, (I meane in the fruition of your health) but being very inquiſitive of your welfare. I had the happineſſe to heare of you by <hi>Thomas Har<g ref="char:EOLhyphen"/>ris</hi> a Marchant of Dubl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, who, as he told me ſaw you in good health in the new Exchange about the ſixt of June, which
+<pb n="2" facs="tcp:155321:3"/>encouraged me to practiſe my pen in writing theſe following newes, from this bleeding and gaſping Kingdome.</p>
+            <p>The Lord <hi>Taffe,</hi> having come from His Majeſty, with a Commiſſion to Treat with the Rebels for Peace, and ſhew<g ref="char:EOLhyphen"/>ing his Authority unto the Lords Juſtices, deſired their Li<g ref="char:EOLhyphen"/>cence to goe to Kilkenny, where the Rebels ſit in Parliament, which was granted accordingly, in regard the Kings Broade Seale was tending, and commanding to that purpoſe. The newes of this Meſſage being poſted into our eares, who were pertakers of the unparalleld Cruelties committed by the Re<g ref="char:EOLhyphen"/>bells againſt us, whereof your Ladyſhip was an eye witneſſe, ſtroke us altogether into an aſtoniſhment, when we rather ex<g ref="char:EOLhyphen"/>pected a full revenge of our wrongs and miſeries, with a ſatis<g ref="char:EOLhyphen"/>faction of the loſſe of our goods, and a hundred thouſand ſoules of our brethren, who periſht in this Rebellion, then any clemency to be extended to the actors of our woe: but well, <hi>Taffe</hi> goes to Kilkenny, where he is nobly entertained by the Rebells, and ſix dayes after, he ſent Propoſitions to the State, to this effect:</p>
+            <p>Firſt, that they ſhould have a free Parliament, with their Roman Prelates, and dignitaries to ſit in the Houſe.</p>
+            <p>Secondly, that the meanes of the Biſhops, and Proteſtant Miniſters ſhould be reſtored to their Clergy.</p>
+            <p>Thirdly, that no ſatisfaction ſhould be demanded by the Britiſh, for any loſſes they ſuſtayned.</p>
+            <pb n="3" facs="tcp:155321:3"/>
+            <p>Fourthly, that any plantation taken from the Iriſh within theſe twenty yeeres, ſhould be of no effect, but the Land ſo planted to be confirm'd upon the lawfull Heire.</p>
+            <p>Fifthly, that no Lord Deputy ſhould bee Governour of that Kingdome, but two Lords Juſtices, whereof the one ſhould be Iriſh, the other Engliſh.</p>
+            <p>Theſe Propoſitions being read, the Marqueſſe of Ormond was appointed to Treate with them; the appointed place was <hi>Trym,</hi> a garriſon Towne of ours, in the County of Weſt<g ref="char:EOLhyphen"/>meath, to which place reſorted from the Rebels the day ap<g ref="char:EOLhyphen"/>pointed, as Commiſſioners: The Lord <hi>Neuterfield,</hi> The Lord Viſcount of <hi>Germanſtowne,</hi> Sir <hi>Iohn Mac Crah,</hi> and <hi>O Carrall;</hi> ſo having met, The Rebels inſiſted very much upon the for<g ref="char:EOLhyphen"/>mer Propoſitions, which the Marqueſſe of Ormond, and Sir <hi>Francis Willoughby</hi> withſtood very ſtoutly.</p>
+            <p>The Treaty held three weeks, during which time, the Re<g ref="char:EOLhyphen"/>bells confiding in the greatneſſe of the Lord <hi>Taffe,</hi> came into Dublin daily ſo familiar, and in ſuch multitudes, no man da<g ref="char:EOLhyphen"/>ring to controle them, pretending the Kings protection: inſo<g ref="char:EOLhyphen"/>much, that we were in a deadly fear, that the Caſtle of Dub<g ref="char:EOLhyphen"/>lin ſhould be ſurpriſed, and our throats cut in a night.</p>
+            <p>The Marqueſſe of <hi>Orm<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd</hi> a weeke before the Parly ſent to the North for foure thouſand Scots to come to his affi<g ref="char:EOLhyphen"/>ſtance, which ſuddenly marched on with all the haſte that poſſibly could be; the Rebells never dreaming of ſuch a
+<pb n="4" facs="tcp:155321:4"/>thing, otherwiſe I beleeve they would not ſtand ſo obſti<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> on their high termes.</p>
+            <p>Sir <hi>Francis Willoughby</hi> underſtanding by letters that the Scots were within two dayes match, told the Lord Marqueſſe of it, who very joyfull of the newes, bid the Rebels ſhift for themſelves, and that he ſcorned to treat any more with them: and upon this he returned to Dublin, and is now in the field, having divided his army into three bodies. The firſt com<g ref="char:EOLhyphen"/>manded by himſelfe, the ſecond by Sir <hi>Francis Willoughby,</hi> and the third by <hi>Coronel Craford,</hi> who lately ſent to Dublin two thouſand Cowes from the Rebels, which he tooke in the County of Wickloe, where he is at this preſent, which was a joyfull comfort to us, having before that, leane freſh Beefe ſold for Eight pence a pound, but our joy did ſtill in<g ref="char:EOLhyphen"/>creaſe more and more: for upon the necke of this happineſſe, Sir <hi>Francis Willoughby</hi> ſent from the County of Longford and Cavan, two thouſand and ſeven hundred Cowes, and fourteene hundred Sheep, which made things ſo plentifull a<g ref="char:EOLhyphen"/>mongſt us, that we ſtand in a good poſture of defence, and ſtrongly reſolved to bee fully revenged upon the Rebells, notwithſtanding any command comming to the contrary whatſoever. We ſhall have Winter Barly heere ſhortly, to make bread, before all our Beefe bee ſpent. At the writing heereof, Newes came to the State, that the Marqueſſe of Or<g ref="char:EOLhyphen"/>mond had given a great overthrow to the Rebels, in the County of Carlo, at Caſtle Dermot, and got two peeces of Ord<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ance from them, and killed many of their chiefe Com<g ref="char:EOLhyphen"/>manders, but I cannot, as yet, certifie their names, nor num<g ref="char:EOLhyphen"/>ber,
+<pb n="4" facs="tcp:155321:4"/>which I ſhall doe by the next conveniency. In the mean time, I reſt,</p>
+            <closer>
+               <signed>Your Ladiſhips faithfull friend and ſervant, <hi>George Brimpahir.</hi>
+               </signed>
+               <dateline>
+                  <hi>Dublin,</hi> 
+                  <date>July 2. 1643.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>This is entred in Stationers Hall Booke, according to order.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>
